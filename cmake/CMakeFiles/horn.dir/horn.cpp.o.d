@@ -1,6 +1,6 @@
 CMakeFiles/horn.dir/horn.cpp.o: \
-  /Users/paulpeng/Smaller\ Projects/datrueone/horn.cpp \
-  /Users/paulpeng/Smaller\ Projects/datrueone/miniaudio.h \
+  /Users/paulpeng/Programs/datrueone/horn.cpp \
+  /Users/paulpeng/Programs/datrueone/miniaudio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/stddef.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__config_site \

@@ -1,4 +1,4 @@
-/Users/paulpeng/Smaller Projects/datrueone/cmake/CMakeFiles/bell.dir
-/Users/paulpeng/Smaller Projects/datrueone/cmake/CMakeFiles/horn.dir
-/Users/paulpeng/Smaller Projects/datrueone/cmake/CMakeFiles/edit_cache.dir
-/Users/paulpeng/Smaller Projects/datrueone/cmake/CMakeFiles/rebuild_cache.dir
+/Users/paulpeng/Programs/datrueone/cmake/CMakeFiles/bell.dir
+/Users/paulpeng/Programs/datrueone/cmake/CMakeFiles/horn.dir
+/Users/paulpeng/Programs/datrueone/cmake/CMakeFiles/edit_cache.dir
+/Users/paulpeng/Programs/datrueone/cmake/CMakeFiles/rebuild_cache.dir

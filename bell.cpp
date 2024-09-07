@@ -1,6 +1,8 @@
 #define MINIAUDIO_IMPLEMENTATION
 #include "miniaudio.h"
 #include <iostream>
+#include <chrono>
+#include <thread>
 
 int main() {
 	ma_engine engine;
@@ -8,7 +10,7 @@ int main() {
 
 	while(true) {
 		ma_engine_play_sound(&engine, "/Users/paulpeng/Downloads/Eckhart's Bell.wav", nullptr);
-		sleep(300);
+		sleep(500);
 	}
 
 	return 0;
