@@ -99,7 +99,7 @@ int main() {
 	std::pair<std::string, std::string> msg = msgs[random() * 7.0];
 	std::cout << msg.first + goal + msg.second + " ";
 	std::string result{};
-	std::cin >> result;
+	std::getline(std::cin, result);
 
 	putFile(R"(C:\Users\paulp\datrueoneFiles\Tally.txt)", msg.first + goal + msg.second + " " + result + " (" + initialTimeLeft + ")\n");
 }
